@@ -101,7 +101,6 @@ function isIsoscelesTriangle(a, b, c) {
   return false;
 }
 
-
 /**
  * Converts a number to Roman numerals. The number will be between 1 and 39.
  * In this task, the use of methods of the String and Array classes is not allowed.
